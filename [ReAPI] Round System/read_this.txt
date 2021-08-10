@@ -1,0 +1,2 @@
+cs_reapi_roundsystem - English
+cs_reapi_tur_sistemi - Turkish
